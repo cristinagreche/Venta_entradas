@@ -26,7 +26,7 @@
     <div class="row">
 
         <div class="col s10 m4 l10 blue center-align card-panel teal lighten-2">
-            <h3>Venta Entradas  WiZink Center </h3>
+            <h3>Venta Entradas  WiZink Center de cgr</h3>
         </div>
         <img src="imagenes/fachada.jpg" alt="Girl in a jacket" width="600" height="220"> 
         
